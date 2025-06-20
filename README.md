@@ -64,11 +64,33 @@ The dataset comprises **three core tables**:
 
 ---
 
+## ✅ Presentation snips 
+![Slide2](https://github.com/user-attachments/assets/c4f601d8-0ab5-4e76-be94-866200c92df8)
+![Slide4](https://github.com/user-attachments/assets/ccff822f-5368-42dc-819a-6cad290e77d3)
+![Slide3](https://github.com/user-attachments/assets/aec23da4-8bde-46d1-9887-0cd58d77d63b)
+![Slide5](https://github.com/user-attachments/assets/7431d1f1-5cb1-41c8-9fd4-ffdcb0584cd5)
+![Slide6](https://github.com/user-attachments/assets/13cf618a-60cb-4cbb-b0ad-60e44b4e8948)
+![Slide7](https://github.com/user-attachments/assets/c125e1b7-f91b-484c-9075-9df0a71ac277)
+![Slide8](https://github.com/user-attachments/assets/732c0dde-8983-4042-b031-1358049d4025)
+![Slide9](https://github.com/user-attachments/assets/57d26fa0-cbc0-428a-94ad-9d365921ad57)
+![Slide10](https://github.com/user-attachments/assets/24c23579-3c0a-46c1-8d4f-b10649394157)
+![Slide11](https://github.com/user-attachments/assets/a7d124aa-2e0a-439a-870d-00981a82cadb)
+![Slide12](https://github.com/user-attachments/assets/d1294023-e1bf-4f19-be65-b913f3f1ee44)
+![Slide13](https://github.com/user-attachments/assets/5b92e4f8-ddc5-4c63-803e-323f3831c54b)
+![Slide14](https://github.com/user-attachments/assets/944eb9ca-b008-40c2-9071-fbbbeb5ad918)
+![Slide15](https://github.com/user-attachments/assets/4a258662-41b9-4539-b46d-759814af16ce)
+![Slide16](https://github.com/user-attachments/assets/cfdfcde7-f15c-43ff-9621-1acb12b95b2c)
+![Slide17](https://github.com/user-attachments/assets/b21d1a03-bb15-4d47-a0ba-1c1d342addd4)
+![Slide18](https://github.com/user-attachments/assets/2b2b3905-919f-4901-90d9-1ed61c5293dd)
+
+
+---
+## 🙏 Thank You! 🙏
+
 ## 📬 Contact
 
-**Prasad Kulkarni**  
-🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  
-📂 [GitHub](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)  
-📧 Email: prasad.kulkarni@example.com
+Feel free to reach out with any questions or feedback.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  📂 [GitHub](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)  
 
 ---
