@@ -72,9 +72,3 @@ The dataset comprises **three core tables**:
 📧 Email: prasad.kulkarni@example.com
 
 ---
-
-## 🚀 Next Steps
-
-- **A/B Testing**: Experiment with post timing and formats to further optimize engagement.
-- **Sentiment Analysis**: Analyze comments to gauge audience sentiment and refine content tone.
-- **Cross-Platform Expansion**: Apply insights to other platforms (e.g., YouTube, TikTok) for broader reach.
