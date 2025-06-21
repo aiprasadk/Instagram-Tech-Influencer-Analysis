@@ -73,7 +73,7 @@ The dataset comprises **three core tables**:
 ![Slide7](https://github.com/user-attachments/assets/c125e1b7-f91b-484c-9075-9df0a71ac277)
 ![Slide8](https://github.com/user-attachments/assets/732c0dde-8983-4042-b031-1358049d4025)
 ![Slide9](https://github.com/user-attachments/assets/57d26fa0-cbc0-428a-94ad-9d365921ad57)
-![Slide10](https://github.com/user-attachments/assets/24c23579-3c0a-46c1-8d4f-b10649394157)
+![Slide10](https://github.com/user-attachments/assets/1e751f44-e777-4927-a437-3ff777cbead7)
 ![Slide11](https://github.com/user-attachments/assets/a7d124aa-2e0a-439a-870d-00981a82cadb)
 ![Slide12](https://github.com/user-attachments/assets/d1294023-e1bf-4f19-be65-b913f3f1ee44)
 ![Slide13](https://github.com/user-attachments/assets/5b92e4f8-ddc5-4c63-803e-323f3831c54b)
