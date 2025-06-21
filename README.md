@@ -85,12 +85,10 @@ The dataset comprises **three core tables**:
 
 
 ---
-## 🙏 Thank You! 🙏
+## 🙏 Thank You! 🙏 ## 📬 Contact - 🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  📂 [GitHub](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis) 
 
-## 📬 Contact
 
 Feel free to reach out with any questions or feedback.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/prasad7k)  📂 [GitHub](https://github.com/aiprasadk/Instagram-Tech-Influencer-Analysis)  
 
 ---
