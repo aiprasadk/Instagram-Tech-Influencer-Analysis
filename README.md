@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="Instagram Tech thumbnail" src="https://github.com/user-attachments/assets/1af64aa0-4206-40b7-a3b6-68b8b15fe50c" />
+
 # 📈 Tech Instagram Influencer Analysis – SQL Project
 
 This project analyzes a tech Instagram influencer's performance data using **MySQL** to derive actionable insights on post performance, audience engagement, and content strategy optimization.
